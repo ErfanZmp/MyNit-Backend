@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+**/venv
+**/env
+
+**/.git
+**/.gitignore
+**/.vscode
+**/coverage
+**/.env
+**/.dockerignore
+**/.aws
+**/.ssh
+**/.DS_Store
+
+docker-compose.yml
